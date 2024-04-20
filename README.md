@@ -1,8 +1,9 @@
-# React + Vite
+CRUD Operation:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create: Implement functionality to add new items.
 
-Currently, two official plugins are available:
+Read: Display a list of items fetched from the backend.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Update: Allow users to edit existing items.
+
+Delete: Enable deletion of items.
